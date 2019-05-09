@@ -21,7 +21,7 @@ ____
 - Delete Line
 
 <div align="center">
-  <img src="./imgs/selectCutCopyLine.gif" alt="selectCutCopyLine" height="250">
+  <img src="./imgs/selectCutCopyLine.gif" alt="selectCutCopyLine" height="350">
 </div>
 
 
@@ -29,7 +29,7 @@ ____
 - Move Line Down
 
 <div align="center">
-  <img src="./imgs/moveLineUpDown.gif" alt="moveLineUpDown" height="250">
+  <img src="./imgs/moveLineUpDown.gif" alt="moveLineUpDown" height="350">
 </div>
 
 
@@ -41,7 +41,7 @@ ____
 - Delete Word Under Cursor
 
 <div align="center">
-  <img src="./imgs/selectCutCopyWord.gif" alt="selectCutCopyWord" height="250">
+  <img src="./imgs/selectCutCopyWord.gif" alt="selectCutCopyWord" height="350">
 </div>
 
 
@@ -51,7 +51,7 @@ ____
 - Delete Words in camelHumps words
 
 <div align="center">
-  <img src="./imgs/selectCopyDeleteCamelHumps.gif" alt="selectCopyDeleteCamelHumps" height="250">
+  <img src="./imgs/selectCopyDeleteCamelHumps.gif" alt="selectCopyDeleteCamelHumps" height="350">
 </div>
 
 
@@ -59,5 +59,5 @@ ____
 - Personally I use Keyboard Maestro to execute these scripts as in the example below.
 
 <div align="center">
-  <img src="./imgs/macro.png" alt="macro" height="250">
+  <img src="./imgs/macro.png" alt="macro" height="350">
 </div>
