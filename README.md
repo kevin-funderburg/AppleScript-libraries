@@ -3,6 +3,8 @@ AppleScript Libraries
 
 Script libraries I've developed over the years others may find useful as well.
 
+- Recall these files must be stored in ~/Library/Script Libraries
+
 
 Kevin's Library
 -----------------
@@ -15,7 +17,7 @@ Alfred Library
 
 Script Debugger Library
 -----------------------
-- This library provides several useful editor functions for ScriptDebugger
+- This library provides several useful editor functions for ScriptDebugger.
 
 - Line Actions:
 	1. Select Line
@@ -53,4 +55,4 @@ Script Debugger Library
 
 - Personally I use Keyboard Maestro to execute these scripts as in the example below.
 
-![Alt text](imgs/macro.png?raw=true "Title")
+[Alt text](imgs/macro.png?raw=true "Title")
