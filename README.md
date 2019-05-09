@@ -20,13 +20,17 @@ ____
 - Cut Line
 - Delete Line
 
-	![](imgs/selectCutCopyLine.gif)
+<div align="center">
+  <img src="./imgs/selectCutCopyLine.gif" alt="selectCutCopyLine" height="250">
+</div>
 
 
 - Move Line Up
 - Move Line Down
 
-	![](imgs/moveLineUpDown.gif)
+<div align="center">
+  <img src="./imgs/moveLineUpDown.gif" alt="moveLineUpDown" height="250">
+</div>
 
 
 
@@ -36,7 +40,9 @@ ____
 - Cut Word Under Cursor
 - Delete Word Under Cursor
 
-	![](imgs/selectCutCopyWord.gif)
+<div align="center">
+  <img src="./imgs/selectCutCopyWord.gif" alt="selectCutCopyWord" height="250">
+</div>
 
 
 ### camelHumps Word Actions
@@ -44,10 +50,14 @@ ____
 - Select Words in camelHumps words
 - Delete Words in camelHumps words
 
-	![](imgs/selectCopyDeleteCamelHumps.gif)
+<div align="center">
+  <img src="./imgs/selectCopyDeleteCamelHumps.gif" alt="selectCopyDeleteCamelHumps" height="250">
+</div>
 
 
 
 - Personally I use Keyboard Maestro to execute these scripts as in the example below.
 
-	![](imgs/macro.png?raw=true "Title")
+<div align="center">
+  <img src="./imgs/macro.png" alt="macro" height="250">
+</div>
